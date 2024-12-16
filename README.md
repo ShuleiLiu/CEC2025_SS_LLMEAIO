@@ -12,8 +12,10 @@ Significant progress has been made in industrial optimization within the context
 
 The topics of this special session include, but are not limited to, the following:
 - **Evolutionary Algorithms for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains. These problems often involve multiple objectives, conflicting trade-offs, high-dimensional search spaces, and constraints that make traditional optimization methods less effective or computationally expensive. This will include research in
-- - **Hybrid EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
+  - **Hybrid EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
   - **Knowledge-Driven Methods**: Leveraging domain knowledge to guide search (e.g., dimensionality reduction, heuristic rules).
+  - **Adaptive Mechanisms**: Developing self-tuning EAs that adjust parameters dynamically based on problem feedback.
+  - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
 
 
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs and other large AI models into traditional simulation engines, enhancing their ability to predict complex system behaviors.
