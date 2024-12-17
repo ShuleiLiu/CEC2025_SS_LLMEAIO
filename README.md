@@ -13,13 +13,13 @@ Significant progress has been made in industrial optimization within the context
 ### Topics of Interest
 
 The topics of this special session include, but are not limited to, the following:
-- **Evolutionary Algorithms for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains, such as workflow scheduling, resource allocation, power grid management, energy-efficient system design, route planning, co-optimization of product structures and functional parameters, real-time tuning of parameters in chemical or physical processes. These problems often involve multiple objectives, high-dimensional search spaces, and complex constraints that make traditional optimization methods less effective or computationally expensive. This will include research in
+- **EAs for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains, such as workflow scheduling, resource allocation, power grid management, energy-efficient system design, route planning, co-optimization of product structures and functional parameters, real-time tuning of parameters in chemical or physical processes. This will include research in
   - **Data-Driven EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
   - **Knowledge-Driven Methods**: Leveraging domain knowledge to guide search (e.g., dimensionality reduction, heuristic rules).
   - **Adaptive Mechanisms**: Developing self-tuning EAs that adjust parameters dynamically based on problem feedback.
   - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
   - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
-- **LLM-Enhanced Evolutionary Algorithms**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
+- **LLM-Enhanced EAs**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
   - **LLM-assisted Black-box Optimization** Enhancing the efficiency and scalability of solving black-box optimization problems by leveraging LLMs for:
     - Interpreting problem descriptions to identify key variables, objectives, and constraints.
     - Guiding the search process by dynamically adjusting evolutionary operators such as mutation and crossover based on contextual insights.
@@ -32,28 +32,31 @@ The topics of this special session include, but are not limited to, the followin
     - Optimize algorithm hyperparameters and control parameters dynamically during the search process.
     - Adaptively modify algorithms in response to changes in problem conditions or objectives, enabling efficient solutions in dynamic and multi-task environments.
     - Generate task-specific or domain-specific heuristics to accelerate convergence and improve solution quality.
-
   
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
-- **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of large model-enhanced simulations. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
-
+- **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of LLM-Enhanced Evolutionary Algorithms. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
 ---
 
-### Organizers:
+
+### Important Dates
+- 15 January 2025: Paper Submission Deadline
+- 15 March 2025: Paper Acceptance Notification
+- 1 May 2025: Final Paper Submission & Early Registration Deadline
+- 8-12 June 2025: Conference Date
+---
+
+### Special Session Chairs:
 
 - **Shulei Liu**  
   School of Artificial Intelligence, Xidian University, Xi’an, 710071, China  
   Email: [shuleiliu@xidian.edu.cn](mailto:shuleiliu@xidian.edu.cn)  
-  [Google Scholar](https://scholar.google.com/citations?user=UCmhmG4AAAAJ&hl=zh-CN)  
 
 - **Fei Liu**  
   Department of Computer Science, City University of Hong Kong, Hong Kong, China  
-  Email: [fliu36@cityu.edu.hk](mailto:fliu36@cityu.edu.hk)  
-  [Google Scholar](https://scholar.google.com/citations?user=wS0G_qQAAAAJ&hl=en)  
+  Email: [fliu36@cityu.edu.hk](mailto:fliu36@cityu.edu.hk)
 
 - **Qingfu Zhang**  
   Department of Computer Science, City University of Hong Kong, Hong Kong, China  
   Email: [qingfu.zhang@cityu.edu.hk](mailto:qingfu.zhang@cityu.edu.hk)  
-  [Personal Website](https://www.cs.cityu.edu.hk/~qzhan7/index.html)  
 
 ---
