@@ -19,11 +19,11 @@ The topics of this special session include, but are not limited to, the followin
   - **Adaptive Mechanisms**: Developing self-tuning EAs that adjust parameters dynamically based on problem feedback.
   - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
   - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
-
-
+- **LLM-Enhanced Evolutionary Algorithms**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
+  - **LLM-assisted Black-box Optimization**:
+  - **LLM-assisted Optimization Algorithm Generation**
+  
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs and other large AI models into traditional simulation engines, enhancing their ability to predict complex system behaviors.
-- **LLM-Enhanced Evolutionary Algorithms**: Developing new algorithms that utilize the computational strengths of LLMs for optimization tasks. 
-- **Data-Driven Evolutionary Optimization**: Addressing the issue of time-consuming simulations through collected historical data.
 - **Predictive Maintenance Scheduling**: Applying LLMs to predict equipment failures and optimize maintenance schedules. This could involve using LLMs to analyze historical maintenance data and operational parameters to schedule proactive maintenance for industrial machinery.
 - **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of large model-enhanced simulations. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
 
