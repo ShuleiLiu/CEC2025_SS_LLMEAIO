@@ -31,13 +31,15 @@ The topics of this special session include, but are not limited to, the followin
   - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
   -->
 - **LLM-Enhanced EAs**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
-    - Landscapes analysis of LLM-based evolutionary heuristic search.
-    - Automatic heuristic design for solving combinatorial optimization problems.
-    - Automatic agent design.
-    - Automatic evolutionary algorithm design.
-    - Automatic algorithm design for expensive optimization.
-    - Multi-modal LLM for automatic algorithm design.
-    - Multi-objective automatic algorithm design.
+    - Landscapes analysis of LLM-based evolutionary heuristic search
+    - LLM-assisted search space complexity reduction
+    - Automatic heuristic design for solving combinatorial optimization problems
+    - Automatic agent design
+    - Automatic evolutionary algorithm design
+    - Automatic algorithm design for expensive optimization
+    - LLM-driven surrogate model construction
+    - Multi-modal LLM for automatic algorithm design
+    - Multi-objective automatic algorithm design
   <!--
   - **LLM-assisted Black-box Optimization** Enhancing the efficiency and scalability of solving black-box optimization problems by leveraging LLMs for:
     - Interpreting problem descriptions to identify key variables, objectives, and constraints.
@@ -59,8 +61,7 @@ The topics of this special session include, but are not limited to, the followin
     - Automatic algorithm design for expensive optimization.
     - Multi-modal LLM for automatic algorithm design.
     - Multi-objective automatic algorithm design.
-  -- >
-
+  -->
   
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
   
