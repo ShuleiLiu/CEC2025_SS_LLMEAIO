@@ -4,7 +4,7 @@
 
 ## The IEEE Congress on Evolutionary Computation (CEC) 2025, <br>8-12 June 2025,<br> Hangzhou China
 
-## Aim and Scope
+## Overview
 
 Industrial systems are becoming increasingly complex due to the integration of advanced technologies, the expansion of interconnected networks, and the growing demand for higher efficiency and productivity. This complexity requires more sophisticated modeling and management strategies to ensure reliability and adaptability in dynamic environments. Industrial optimization refers to the application of various techniques aimed at improving the efficiency of processes and operations within industrial systems, with the goal of enhancing performance to make these systems more intelligent, efficient, cost-effective, and productive.
 
@@ -38,7 +38,6 @@ The topics of this special session include, but are not limited to, the followin
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
   
 - **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of LLM-enhanced EAs.
-
 
 ---
 
