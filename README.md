@@ -13,7 +13,8 @@ Significant progress has been made in industrial optimization within the context
 ### Topics of Interest
 
 The topics of this special session include, but are not limited to, the following:
-- **EAs for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains, including   - workflow scheduling
+- **EAs for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains, including
+  - workflow scheduling
   - resource allocation
   - power grid management
   - energy-efficient system design
