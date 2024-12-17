@@ -49,7 +49,7 @@ Please follow the IEEE CEC 2025 Submission Website (https://www.cec2025.org/inde
 
 ### Important Dates
 
-- 15 January 2025: Paper Submission Deadline
+- 15 January 2025: <font color="red">Paper Submission Deadline</font>
 - 15 March 2025: Paper Acceptance Notification
 - 1 May 2025: Final Paper Submission & Early Registration Deadline
 - 8-12 June 2025: Conference Date
