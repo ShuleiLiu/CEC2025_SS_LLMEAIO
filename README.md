@@ -2,7 +2,7 @@
 
 ## Special Session: Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization
 
-## The IEEE Congress on Evolutionary Computation (CEC) 2025, \8-12 June 2025, Hangzhou China
+## The IEEE Congress on Evolutionary Computation (CEC) 2025, <br>8-12 June 2025, Hangzhou China
 
 ## Aim and Scope
 
