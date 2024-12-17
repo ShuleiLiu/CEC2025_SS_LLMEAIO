@@ -21,10 +21,9 @@ The topics of this special session include, but are not limited to, the followin
   - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
 - **LLM-Enhanced Evolutionary Algorithms**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
   - **LLM-assisted Black-box Optimization**:
-  - **LLM-assisted Optimization Algorithm Generation**
+  - **LLM-assisted Optimization Algorithm Generation**:
   
-- **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs and other large AI models into traditional simulation engines, enhancing their ability to predict complex system behaviors.
-- **Predictive Maintenance Scheduling**: Applying LLMs to predict equipment failures and optimize maintenance schedules. This could involve using LLMs to analyze historical maintenance data and operational parameters to schedule proactive maintenance for industrial machinery.
+- **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
 - **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of large model-enhanced simulations. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
 
 ---
@@ -47,26 +46,3 @@ The topics of this special session include, but are not limited to, the followin
   [Personal Website](https://www.cs.cityu.edu.hk/~qzhan7/index.html)  
 
 ---
-
-## Short Biography of the Organizers
-
-### Shulei Liu
-School of Artificial Intelligence, Xidian University, Xi’an, 710071, China  
-Email: [shuleiliu@xidian.edu.cn](mailto:shuleiliu@xidian.edu.cn)  
-[Google Scholar](https://scholar.google.com/citations?user=UCmhmG4AAAAJ&hl=zh-CN)  
-
-Dr. Shulei Liu received the M.Eng. degree from Shandong Normal University, Jinan, China, in 2018, and the Ph.D. degree from Xidian University, Xi’an, China. He is currently a postdoctoral researcher at Xidian University. His research interests include large-scale multi-objective optimization, data-driven combinatorial optimization, large model-based evolutionary optimization, and real-world industry problems.
-
-### Fei Liu
-Department of Computer Science, City University of Hong Kong, Kowloon, Hong Kong, China  
-Email: [fliu36@cityu.edu.hk](mailto:fliu36@cityu.edu.hk)  
-[Google Scholar](https://scholar.google.com/citations?user=wS0G_qQAAAAJ&hl=en)  
-
-Dr. Fei Liu received the BSc degree in airworthiness technology and MSc degree in fluid dynamics from Northwestern Polytechnical University, China in 2017 and 2020, and PhD degree at the Department of Computer Science, City University of Hong Kong, China in 2024. He is currently a research assistant at City University of Hong Kong. His main research interests include artificial intelligence, optimization, and their applications.
-
-### Qingfu Zhang
-Department of Computer Science, City University of Hong Kong, Hong Kong, China  
-Email: [qingfu.zhang@cityu.edu.hk](mailto:qingfu.zhang@cityu.edu.hk)  
-[Personal Website](https://www.cs.cityu.edu.hk/~qzhan7/index.html)  
-
-Qingfu Zhang received the B.S. degree in mathematics from Shanxi University, Taiyuan, China, in 1984, and the M.S. degree in applied mathematics and the Ph.D. degree in information engineering from Xidian University, Xi’an, China, in 1991 and 1994, respectively. He is a Chair Professor of Computational Intelligence at the Department of Computer Science, City University of Hong Kong. His main research interests include evolutionary computation, multiobjective optimization, machine learning and their applications. Dr. Zhang is an Associate Editor of the IEEE Transactions on Evolutionary Computation and the IEEE Transactions on Cybernetics. He has been a Web of Science highly cited researcher in Computer Science for six times.
