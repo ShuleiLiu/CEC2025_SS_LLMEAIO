@@ -36,6 +36,7 @@ The topics of this special session include, but are not limited to, the followin
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
   
 - **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of LLM-Enhanced Evolutionary Algorithms. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
+
 ---
 
 
@@ -44,6 +45,7 @@ The topics of this special session include, but are not limited to, the followin
 - 15 March 2025: Paper Acceptance Notification
 - 1 May 2025: Final Paper Submission & Early Registration Deadline
 - 8-12 June 2025: Conference Date
+  
 ---
 
 ### Special Session Chairs:
