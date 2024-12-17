@@ -22,14 +22,7 @@ The topics of this special session include, but are not limited to, the followin
   - co-optimization of product structures and functional parameters
   - real-time tuning of parameters in chemical or physical processes
   - other industrial optimization problems
-  <!--
-   This will include research in
-  - **Data-Driven EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
-  - **Knowledge-Driven Methods**: Leveraging domain knowledge to guide search (e.g., dimensionality reduction, heuristic rules).
-  - **Adaptive Mechanisms**: Developing self-tuning EAs that adjust parameters dynamically based on problem feedback.
-  - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
-  - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
-  -->
+
 - **LLM-Enhanced EAs**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
     - Landscapes analysis of LLM-based evolutionary heuristic search
     - LLM-assisted search space complexity reduction
@@ -40,28 +33,7 @@ The topics of this special session include, but are not limited to, the followin
     - LLM-driven surrogate model construction
     - Multi-modal LLM for automatic algorithm design
     - Multi-objective automatic algorithm design
-  <!--
-  - **LLM-assisted Black-box Optimization** Enhancing the efficiency and scalability of solving black-box optimization problems by leveraging LLMs for:
-    - Interpreting problem descriptions to identify key variables, objectives, and constraints.
-    - Guiding the search process by dynamically adjusting evolutionary operators such as mutation and crossover based on contextual insights.
-    - Constructing surrogate models that approximate expensive objective functions using historical data and semantic patterns.
-    - Reducing search space complexity by identifying critical variables or feasible solution regions.
-    - Providing natural language explanations for optimization decisions, aiding interpretability and decision-making.
-  - **LLM-assisted Optimization Algorithm Generation** Harnessing the generative and contextual capabilities of LLMs to:
-    - Automatically generate and fine-tune evolutionary algorithm components (e.g., selection, mutation, crossover strategies) based on specific problem requirements.
-    - Propose hybrid algorithmic frameworks that combine features from multiple optimization paradigms (e.g., EAs, Particle Swarm Optimization, Differential Evolution).
-    - Optimize algorithm hyperparameters and control parameters dynamically during the search process.
-    - Adaptively modify algorithms in response to changes in problem conditions or objectives, enabling efficient solutions in dynamic and multi-task environments.
-    - Generate task-specific or domain-specific heuristics to accelerate convergence and improve solution quality.
-  - **Combining LLM and Evolutionary Computation for Algorithm Design**
-    - Landscapes analysis of LLM-based evolutionary heuristic search.
-    - Automatic heuristic design for solving combinatorial optimization problems.
-    - Automatic agent design.
-    - Automatic evolutionary algorithm design.
-    - Automatic algorithm design for expensive optimization.
-    - Multi-modal LLM for automatic algorithm design.
-    - Multi-objective automatic algorithm design.
-  -->
+
   
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
   
