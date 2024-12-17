@@ -1,9 +1,8 @@
 # Call for papers
 
-## Special Session on “Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization”
+## Special Session: Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization
 
-## The IEEE Congress on Evolutionary Computation (CEC) 2025
-
+## The IEEE Congress on Evolutionary Computation (CEC) 2025, 8-12 June 2025, Hangzhou China
 
 ## Aim and Scope
 
@@ -14,11 +13,12 @@ Significant progress has been made in industrial optimization within the context
 ### Topics of Interest
 
 The topics of this special session include, but are not limited to, the following:
-- **Evolutionary Algorithms for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains. These problems often involve multiple objectives, conflicting trade-offs, high-dimensional search spaces, and constraints that make traditional optimization methods less effective or computationally expensive. This will include research in
-  - **Hybrid EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
+- **Evolutionary Algorithms for industrial optimization** focus on applying evolutionary computation techniques to solve complex optimization problems commonly encountered in industrial domains, such as workflow scheduling, resource allocation, power grid management, energy-efficient system design, route planning, co-optimization of product structures and functional parameters, real-time tuning of parameters in chemical or physical processes. These problems often involve multiple objectives, high-dimensional search spaces, and complex constraints that make traditional optimization methods less effective or computationally expensive. This will include research in
+  - **Data-Driven EAs**: Combining EAs with machine learning models (e.g., surrogate-assisted optimization, reinforcement learning) to improve efficiency.
   - **Knowledge-Driven Methods**: Leveraging domain knowledge to guide search (e.g., dimensionality reduction, heuristic rules).
   - **Adaptive Mechanisms**: Developing self-tuning EAs that adjust parameters dynamically based on problem feedback.
   - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
+  - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
 
 
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs and other large AI models into traditional simulation engines, enhancing their ability to predict complex system behaviors.
