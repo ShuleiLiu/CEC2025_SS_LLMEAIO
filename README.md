@@ -40,6 +40,13 @@ The topics of this special session include, but are not limited to, the followin
 ---
 
 
+### Paper Submission
+
+Please follow the IEEE CEC 2025 Submission Website (https://www.cec2025.org/index/page.html?id=1298) to prepare and submit the paper. Special session papers are treated the same as regular conference papers. All papers accepted and presented at IEEE WCCI/CEC 2025 will be included in the conference proceedings published by IEEE Explore.
+  
+---
+
+
 ### Important Dates
 
 - 15 January 2025: Paper Submission Deadline
@@ -48,6 +55,7 @@ The topics of this special session include, but are not limited to, the followin
 - 8-12 June 2025: Conference Date
   
 ---
+
 
 ### Special Session Chairs:
 
