@@ -1,6 +1,9 @@
 # Call for papers
 
-## Special Session on “Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization” in IEEE CEC 2025
+## Special Session on “Large Language Model-Enhanced Evolutionary Algorithms for Industrial Optimization”
+
+## The IEEE Congress on Evolutionary Computation (CEC) 2025
+
 
 ## Aim and Scope
 
