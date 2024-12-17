@@ -20,8 +20,19 @@ The topics of this special session include, but are not limited to, the followin
   - **Multi-Task Optimization**: Simultaneously solving related tasks by sharing learned knowledge across problems.
   - **Bilevel Optimization**: Developing efficient bilevel EAs for solving industrial bilevel problems where one problem (upper-level) depends on the solution of another problem (lower-level)
 - **LLM-Enhanced Evolutionary Algorithms**: Developing new algorithms that integrates the capabilities of LLMs with EAs to tackle complex optimization challenges in industrial domains. This will include research in
-  - **LLM-assisted Black-box Optimization**:
-  - **LLM-assisted Optimization Algorithm Generation**:
+  - **LLM-assisted Black-box Optimization** Enhancing the efficiency and scalability of solving black-box optimization problems by leveraging LLMs for:
+    - Interpreting problem descriptions to identify key variables, objectives, and constraints.
+    - Guiding the search process by dynamically adjusting evolutionary operators such as mutation and crossover based on contextual insights.
+    - Constructing surrogate models that approximate expensive objective functions using historical data and semantic patterns.
+    - Reducing search space complexity by identifying critical variables or feasible solution regions.
+    - Providing natural language explanations for optimization decisions, aiding interpretability and decision-making.
+  - **LLM-assisted Optimization Algorithm Generation** Harnessing the generative and contextual capabilities of LLMs to:
+    - Automatically generate and fine-tune evolutionary algorithm components (e.g., selection, mutation, crossover strategies) based on specific problem requirements.
+    - Propose hybrid algorithmic frameworks that combine features from multiple optimization paradigms (e.g., EAs, Particle Swarm Optimization, Differential Evolution).
+    - Optimize algorithm hyperparameters and control parameters dynamically during the search process.
+    - Adaptively modify algorithms in response to changes in problem conditions or objectives, enabling efficient solutions in dynamic and multi-task environments.
+    - Generate task-specific or domain-specific heuristics to accelerate convergence and improve solution quality.
+
   
 - **LLM Integration with Simulation Engines**: Investigating methods for embedding LLMs into traditional simulation engines, enhancing their ability to predict complex system behaviors.
 - **Real-World Application Case Studies**: Conducting detailed case studies to validate the effectiveness of large model-enhanced simulations. This could involve collaborating with industries to implement and assess the impact of these advanced simulations in real-world scenarios.
