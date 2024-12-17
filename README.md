@@ -65,7 +65,7 @@ Please follow the IEEE CEC 2025 Submission Website (https://www.cec2025.org/inde
 
 - **Fei Liu**  
   Department of Computer Science, City University of Hong Kong, Hong Kong, China  
-  Email: [fliu36@cityu.edu.hk](mailto:fliu36@cityu.edu.hk)
+  Email: [fliu36-c@my.cityu.edu.hk](mailto:fliu36-c@my.cityu.edu.hk)
 
 - **Qingfu Zhang**  
   Department of Computer Science, City University of Hong Kong, Hong Kong, China  
